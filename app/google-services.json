@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "994249641783",
+    "firebase_url": "https://my-application-b7b76.firebaseio.com",
+    "project_id": "my-application-b7b76",
+    "storage_bucket": "my-application-b7b76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994249641783:android:8085249c303f86878a54b2",
+        "android_client_info": {
+          "package_name": "com.example.WhatsAppClone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994249641783-f3g775kvnot3o1f2e38gf89g2pffvmgk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.WhatsAppClone",
+            "certificate_hash": "82222ede28c2560978369325e6d7c48f01b7b728"
+          }
+        },
+        {
+          "client_id": "994249641783-gjvrkmi16nigqmmk5qu94uh0l32c7sgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACQfmJ7U3ET08nwa6Dh9F4NFk-Imf76UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994249641783-gjvrkmi16nigqmmk5qu94uh0l32c7sgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
